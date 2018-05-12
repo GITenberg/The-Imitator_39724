@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40179'
     url: http://www.gutenberg.org/2009/agents/40179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39724#The-Imitator
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
